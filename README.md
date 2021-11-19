@@ -1,4 +1,4 @@
-# This is a simple CSV merger tool that merges multiple CSV files that are present fixture directory.
+# This is a simple CSV merger tool that merges multiple CSV files that are present in fixture directory.
 
 # Assumptions
 1. All input files contains unique columns.
