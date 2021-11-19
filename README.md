@@ -1,7 +1,7 @@
 # This is a simple CSV merger tool that merges multiple CSV files that are present in fixture directory.
 
 # Assumptions
-1. All input files contains unique columns.
+1. Each input file contains unique columns.
 2. The columns are maintained in same order in all input files.
 
 # Validation of input files
